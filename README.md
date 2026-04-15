@@ -34,7 +34,7 @@ Turning ideas into scalable tech products
 ##  TECH ARSENAL
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,python" />
 </p>
 
 ---
