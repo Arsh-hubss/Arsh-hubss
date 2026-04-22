@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-00ff9c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-JavaScript%20Mastery-00ff9c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Python%20Mastery-00ff9c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Nigeria-00ff9c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mindset-Growth%20Mode-00ff9c?style=for-the-badge" />
 </p>
