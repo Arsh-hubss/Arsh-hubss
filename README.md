@@ -25,7 +25,7 @@
 ```
 
 Passionate about building solutions that solve real problems
-Currently mastering **JavaScript & modern web apps**
+Currently mastering **Python & modern web apps**
 Based in Nigeria
 Turning ideas into scalable tech products
 
